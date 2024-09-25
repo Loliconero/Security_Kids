@@ -1,1 +1,38 @@
+Descripción Inicial Proyecto de Planeación de Sistemas 
+Informáticos
+
+
+Integrantes:
+Iván Andrés Vargas Hernandez
+Zirley Yuliana Acevedo Pérez
+Cristhian Camilo Patiño Burgos
+Juan David Rojas Arguello
+
+
+
+Materia: Planeación de Sistemas Informáticos
+Grupo: B191
+Profesor: Pedro Antonio Ramírez García
+
+
+
+
+Unidades Tecnológicas de Santander UTS
+Tecnología en Desarrollo de Sistemas Informáticos
+24 de septiembre del 2024
+Bucaramanga, Santander
+Colombia 
+
+Descripción del Proyecto
+Es un proyecto, el cual servirá como dispositivo de monitoreo y seguimiento para los estudiantes de las instituciones educativas o para el uso casual. Este dispositivo brindara un monitoreo para los menores al momento de dirigirse a su destino entre el colegio y el hogar, si el estudiante llegase a extraviarse o salirse del rango de la ruta, el dispositivo se activará una alarma para los padres de familia, enviado información en tiempo real a estos. Este dispositivo ira incluido en una ropa o artículos de uso casual, para que sea menos perceptible a la vista humana y pase desaparecido como una prenda de ropa.
+Objetivo:
+Proporcionar un sistema de seguridad y rastreo para los estudiantes, enviado información de la ruta de estos mismo.
+Servir como dispositivo de rastreo en caso de un secuestro.
+Características:
+•	GPS:  Rastreara toda la ruta del estudiante, que antes haya sido programada.
+•	Alarma: Si el menor llegase a salir del rango de la ruta, este enviara una alarma a sus padre o tutores, sobre la información en tiempo real sobre este, activando demás funciones, ultima ubicación, sensores, cámara, audio, entre otros.
+•	Cámara:  Captura imágenes cada cierto tiempo y enviándose a sus tutores, para que puedan identificar los últimos lugares por los cuales paso el menor.
+•	Audio: Se prendera el micrófono y permanecerá activo, hasta que la alarma finalice, suministrando audio valioso para sus padres.
+•	Facilidad de uso: Este dispositivo contara con una disponibilidad y e distintas plataformas, para que su uso sea más fácil y rápido.
+•	Camuflaje: Este dispositivo ira camuflado entre la ropa, prenda de vestir o accesorios, para que no sea detectando tan fácilmente, y suministre la mayor cantidad de información que recopile.
 
