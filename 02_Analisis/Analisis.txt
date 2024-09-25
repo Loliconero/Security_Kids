@@ -1,1 +1,38 @@
+PROYECTO PLANEACION ANALISIS:
+
+Análisis del proyecto: Sistema de localización y grabación para niños
+
+Introducción: Este documento analiza un proyecto que busca implementar una camara en las camisas de los niños, con el objetivo de grabar y localizar a los menores para evitar su extravío y protegerlos de situaciones de explotación.
+
+Objetivos del análisis: 
+-Identificar requisitos técnicos y funcionales del sistema.
+-Evaluar la viabilidad económica y técnica del proyecto.
+
+Requisitos del proyecto: 
+-Funcionales: grabación de video en tiempo real, localización GPS precisa y microfono .
+-No funcionales: Cifrado de datos para garantizar la privacidad y batería de larga duración.
+
+Análisis de mercado: Actualmente existen dispositivos como la Cámara Mini espía con GPS, alguna de sus características son:
+-Pequeñas y portables
+-con grabación de video y función GPS ideal para colocar en mochilas o ropa 
+
+
+Publico objetivo: Dirigido a padres de familia preocupados por la seguridad de sus hijos.
+
+Análisis de viabilidad:
+Se necesitarán cámaras compactas y módulos GPS.
+
+Economia: Estimación de costos inicial de la camara Mini espía con GPS oscila entre los $300,000 - $600,000 COP.
+
+Legalidad: Se debe considerar la normativa sobre la privacidad de los menores.
+
+Beneficios del proyecto: 
+-Aumento de la seguridad de los niños
+-Tranquilidad para los padres.
+
+Conclusión: 
+El análisis sugiere que el proyecto es viable y necesario para la seguridad infantil.
+
+Referencias:
+https://www.careforkids.es/ventajas-de-los-localizadores-para-ninos-con-gps/
 
