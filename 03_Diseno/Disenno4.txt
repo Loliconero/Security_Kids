@@ -1,1 +1,6 @@
+Diagrama de Flujo de Datos del sistema.
 
+Flujo de Información:
+1. El dispositivo GPS envía datos de ubicación al servidor backend.
+2. El servidor almacena los datos en la base de datos.
+3. Los padres/tutores reciben la información y las alertas en tiempo real.
