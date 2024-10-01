@@ -1,4 +1,4 @@
-Este archivo describe el Diagrama de Clases del sistema.
+Diagrama de Clases del sistema.
 
 Clases:
 - Dispositivo (Atributos: id, ubicacion, alarma, camara, microfono)
