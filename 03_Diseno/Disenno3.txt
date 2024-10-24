@@ -1,8 +1,0 @@
-Diagrama de Clases del sistema.
-
-Clases:
-- Dispositivo (Atributos: id, ubicacion, alarma, camara, microfono)
-- Tutor (Atributos: id, nombre, notificacion)
-
-Relaciones:
-- El tutor recibe los datos del dispositivo.
