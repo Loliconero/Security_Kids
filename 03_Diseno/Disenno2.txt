@@ -1,9 +1,0 @@
-Diagrama de Casos de Uso del sistema.
-
-Actores:
-- Estudiante
-- Padres/Tutores
-
-Casos de Uso:
-- El estudiante utiliza el dispositivo para ser rastreado.
-- Los padres/tutores monitorean la ubicación en tiempo real y reciben alertas.
